@@ -10,7 +10,7 @@ Unsolved                   | Dijkstra
 A simple maze builder has also been implemented and has been used to create some of the larger maps in the `maps` folder.
 To use the maze builder you can simply click and drag across the screen to build the blocks. To change block types simply click on the same block to change the block type. When everything is done simply press space to save the map. View the instructions below for build/run instructions.
 
-![](docs/images/buiilder.gif)
+![](docs/images/builder.gif)
 
 
 ## Build Instructions
