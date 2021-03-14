@@ -54,3 +54,11 @@ MAZEBUILDER will allow you to create your own mazes. To run it simply type:
 where `{$x}` and `{$y}` are the number of rows and columns you want your maze to be.
 
 __NOTE: Only row and column values divisible by 640 can be used__
+
+## Roadmap
+The project roadmap is on Trello, you can find it [here](https://trello.com/b/s9TGrF3W/maze-solver)
+
+The Main Current Goals are:
+-[ ] Move to imGUI
+-[ ] Add proper UI
+-[ ] Integrate MazeGen into the Solver (dynamic building and solving)
